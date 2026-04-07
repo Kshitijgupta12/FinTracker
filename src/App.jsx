@@ -1,3 +1,4 @@
+import React from "react";
 import { AppProvider } from "./context/AppContext";
 import Sidebar from "./components/Sidebar";
 import Dashboard from "./modules/Dashboard";
